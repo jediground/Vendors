@@ -90,4 +90,28 @@ App](https://github.com/Sephiroth87/ODRefreshControl.git)
 #### JGProgressHUD
 [Powerful, simple and modern progress HUD for iOS. This ProgressHUD supports iOS
 5 - iOS 8.](https://github.com/JonasGessner/JGProgressHUD.git)
-![](./Screenshots/JGProgressHUD-1.png)![](./Screenshots/JGProgressHUD-2.png)![](./Screenshots/JGProgressHUD-3.png)![](./Screenshots/JGProgressHUD-4.png)
+<p align="center">
+	<img src="./Screenshots/JGProgressHUD-1.png" width="24%">&nbsp;
+	<img src="./Screenshots/JGProgressHUD-2.png" width="24%">&nbsp;
+	<img src="./Screenshots/JGProgressHUD-3.png" width="24%">&nbsp;
+	<img src="./Screenshots/JGProgressHUD-4.png" width="24%">
+</p>
+
+#### MessageBanner
+[iOS Notification / Message easy to use and fully
+customisable](https://github.com/Loadex/MessageBanner.git)
+<p align="left">
+	<img src="./Screenshots/MessageBanner.gif" width="24%">
+</p>
+
+#### TSMessages
+[Easy to use and customizable messages/notifications for iOS à la
+Tweetbot](https://github.com/toursprung/TSMessages.git)
+<p align="left">
+	<img src="./Screenshots/TSMessages-1.png" width="24%">&nbsp;
+	<img src="./Screenshots/TSMessages-2.png" width="24%">
+</p>
+
+
+
+
